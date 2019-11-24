@@ -1,0 +1,62 @@
+body{
+    position: relative;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+button {
+    color: white;
+    font-size: 27px;
+    background: linear-gradient(90deg,#5073b8, #1098ad, #07b39b,#20c997);
+    border-top: 1px white solid;
+    border-bottom: 1px white solid;
+    border-right: none;
+    height: 100%;
+    width: 100%;
+}
+
+.jumbotron {
+    margin-bottom: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.container-fluid {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.row {
+    height: 60px;
+}
+
+.col-md-8 {
+    margin: 0 auto;
+    padding: 0px;
+}
+.col-md-2 {
+    margin: 0 auto;
+    padding: 0px;
+    color: white;
+    opacity: 75%;
+    background: linear-gradient(270deg,#5073b8, #1098ad, #07b39b,#20c997);
+}
+
+#head{
+    background-color: #dddddd;
+    text-align: center;
+}
+
+#time{
+    font-weight: bold;
+    line-height: 60px;
+    text-align: center;
+    border-top: 1px #dddddd solid;
+    height:100%;
+}
